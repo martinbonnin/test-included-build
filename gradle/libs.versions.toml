@@ -1,0 +1,4 @@
+[libraries]
+apollo-gradle-plugin="com.apollographql.apollo3:apollo-gradle-plugin:3.7.5"
+apollo-runtime="com.apollographql.apollo3:apollo-runtime:3.7.5"
+okio="com.squareup.okio:okio:3.3.0"
